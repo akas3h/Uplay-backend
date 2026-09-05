@@ -1,3 +1,3 @@
 # backend
 
-This is bakend folder for video sharing platform
+This is backend folder for video sharing platform
